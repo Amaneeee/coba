@@ -13,3 +13,6 @@ p, label, #iyah {
 .brot {
     margin-left: 250px;
 }
+input, button {
+    border-radius: 5px 5px 5px 5px;
+}
